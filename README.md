@@ -35,10 +35,13 @@
 
 #### Useful resources
 
-- TraveryMedia React Crash Course https://www.youtube.com/watch?v=sBws8MSXN7A&t=5206s
+- [TraveryMedia React Crash Course](https://www.youtube.com/watch?v=sBws8MSXN7A&t=5206s)
 - Udemy courses
   - https://www.udemy.com/course/react-the-complete-guide-incl-redux/
   - https://www.udemy.com/course/react-2nd-edition/
+- [REACTstrap](https://reactstrap.github.io/) 
+- [Bootstrap](https://getbootstrap.com/)
+- [React toastify for the awesome toasts](https://fkhadra.github.io/react-toastify/introduction)
 
 
 #### Contact the developer/instructor
