@@ -5,7 +5,7 @@
 <img src="logo512.png" alt="react logo" width="60px" /> Live react workshop 
 
 ( kaskrout means Sandwich in the Tunisian 🇹🇳 dialect)
- 
+
  ![Project screenshot](screenshot.png) 
 
 ### How to run this project
@@ -17,6 +17,8 @@
 5. Congrats your are now you have your own personal kaskrout designer, enjoy !
 
 
+
+#### Useful information
 
 1. Organisations that use react
    - Airbnb, Uber, Facebook, Slack, Udemy...
