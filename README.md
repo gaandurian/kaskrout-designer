@@ -2,7 +2,7 @@
 
 # Kaskrout designer
 
-<img src="logo512.png" alt="react logo" width="120px" /> Live react workshop 
+<img src="logo512.png" alt="react logo" width="60px" /> Live react workshop 
 
 ( kaskrout means Sandwich in the Tunisian 🇹🇳 dialect)
 
