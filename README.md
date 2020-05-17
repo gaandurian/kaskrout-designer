@@ -5,6 +5,8 @@
 <img src="logo512.png" alt="react logo" width="60px" /> Live react workshop 
 
 ( kaskrout means Sandwich in the Tunisian 🇹🇳 dialect)
+ 
+ ![Project screenshot](screenshot.png) 
 
 ### How to run this project
 
