@@ -36,3 +36,6 @@
   - https://www.udemy.com/course/react-the-complete-guide-incl-redux/
   - https://www.udemy.com/course/react-2nd-edition/
 
+
+#### Contact the developer/instructor
+⟶ [Mahmoud Ghandour](https://about.me/ghndr)
